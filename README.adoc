@@ -262,7 +262,7 @@ Boot step-by-step:
   Boot Actuator] is a guide to creating a REST web service and also shows how the server
   can be configured.
 * https://spring.io/guides/gs/convert-jar-to-war/[Converting a Spring Boot JAR Application
-  to a WAR] shows you how to run applications in a web server as a WAR file.
+  to a WAR] shows you how to run applications in a web server as a file.
 
 
 
